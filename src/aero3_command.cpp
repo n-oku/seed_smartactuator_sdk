@@ -9,6 +9,7 @@ using namespace controller;
 SerialCommunication::SerialCommunication()
 : io_(),serial_(io_),timer_(io_),is_canceled_(false)
 {
+  test
 }
 
 ///////////////////////////////
